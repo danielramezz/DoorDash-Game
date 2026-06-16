@@ -1,0 +1,15 @@
+# Compiled output
+bin/
+out/
+build/
+*.class
+
+# Eclipse / IDE
+.settings/
+.metadata/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
