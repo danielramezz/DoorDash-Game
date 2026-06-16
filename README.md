@@ -6,7 +6,7 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-UI-0db7ed)
 ![JUnit](https://img.shields.io/badge/JUnit-4-25A162?logo=junit5&logoColor=white)
 ![Tests](https://img.shields.io/badge/tests-165%20passing-success)
-![License](https://img.shields.io/badge/license-MIT-blue)
+
 
 <p align="center">
   <img src="DoorDash/src/assets/images/start_background.png" alt="DooR DasH title screen" width="640">
