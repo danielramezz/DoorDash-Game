@@ -10,10 +10,10 @@
 
 ## Game Walkthrough
 <p align="center">
-     <video src="
-https://github.com/user-attachments/assets/8686aee7-1ee0-4cc6-a8f8-a274589d39e3
+  <video src="
+https://github.com/user-attachments/assets/caa7685f-2a18-49a9-b57d-b34d0a68bfc9
 " controls width="720"></video>
-   </p>
+</p>
 
 
 
