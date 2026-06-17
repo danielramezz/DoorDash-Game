@@ -28,8 +28,8 @@ https://github.com/user-attachments/assets/8686aee7-1ee0-4cc6-a8f8-a274589d39e3
 ><br><sub>Board & gameplay</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/682937df-bea1-46db-984c-3db683800803" />><br><sub>Card draw</sub></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/1d182054-f9e3-47d6-a4d6-00841854065a" />><br><sub>Victory screen</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/682937df-bea1-46db-984c-3db683800803" /><br><sub>Card draw</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/1d182054-f9e3-47d6-a4d6-00841854065a" /><br><sub>Loading Screen</sub></td>
   </tr>
 </table>
 
