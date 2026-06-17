@@ -8,9 +8,29 @@
 ![Tests](https://img.shields.io/badge/tests-165%20passing-success)
 
 
+## Game Walkthrough
 <p align="center">
-  <img src="DoorDash/src/assets/images/start_background.png" alt="DooR DasH title screen" width="640">
-</p>
+     <video src="
+https://github.com/user-attachments/assets/8686aee7-1ee0-4cc6-a8f8-a274589d39e3
+" controls width="720"></video>
+   </p>
+## Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="<img width="1276" height="799" alt="image" src="https://github.com/user-attachments/assets/962810ce-cd19-465d-8eae-9aad448afcda" />
+" width="400"><br><sub>Main menu</sub></td>
+    <td align="center"><img src="<img width="1274" height="799" alt="image" src="https://github.com/user-attachments/assets/eec7925a-01ef-4a21-a750-803aa1fc1ba3" />
+" width="400"><br><sub>Board & gameplay</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/0b5093b7-7c15-4810-90ce-eb62f92bd2f4" />
+" width="400"><br><sub>Card draw</sub></td>
+    <td align="center"><img src="<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/9b871090-1a08-49cb-b5d0-6e01baae2ba1" />
+" width="400"><br><sub>Victory screen</sub></td>
+  </tr>
+</table>
+
 
 ---
 
