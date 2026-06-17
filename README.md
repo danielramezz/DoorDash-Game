@@ -8,13 +8,12 @@
 ![Tests](https://img.shields.io/badge/tests-165%20passing-success)
 
 
-## Game Walkthrough
-<p align="center">
-  <video src="
-https://github.com/user-attachments/assets/caa7685f-2a18-49a9-b57d-b34d0a68bfc9
-" controls width="720"></video>
-</p>
 
+## Game Walkthrough
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/caa7685f-2a18-49a9-b57d-b34d0a68bfc9" controls width="720"></video>
+</p>
 
 
 ## Screenshots
