@@ -23,9 +23,9 @@ https://github.com/user-attachments/assets/8686aee7-1ee0-4cc6-a8f8-a274589d39e3
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/f778b1c8-b1e5-483c-9349-c285a0c14a6f" />><br><sub>Main menu</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/f778b1c8-b1e5-483c-9349-c285a0c14a6f" /><br><sub>Main menu</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/2b33989c-18bb-4a60-9c27-f33bc69481b5" />
-><br><sub>Board & gameplay</sub></td>
+<br><sub>Board & gameplay</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/682937df-bea1-46db-984c-3db683800803" /><br><sub>Card draw</sub></td>
